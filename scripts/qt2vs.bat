@@ -1,1 +1,0 @@
-qmake -r -tp vc LxTool_qt.pro
